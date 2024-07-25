@@ -25,7 +25,7 @@ This project is a Command Line Interface (CLI) Database Management System develo
 
 ## Project Structure
 
-- **Main Script File**: `dbms.sh`
+- **Main Script File**: `myMoha.sh`
   - Contains the main script and menu logic
   - Handles user inputs and directs to appropriate functions
 
