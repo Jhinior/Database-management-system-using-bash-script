@@ -27,10 +27,10 @@ The Project Features: The Application will be CLI Menu based app, that will prov
 ## Project Created by:
 Mahmoud Ahmed El-Sayed
 
-- [Github]([https://github.com/Jhinior])
-- [LinkedIn]([https://www.linkedin.com/in/mahmoud-el-sayed-jr97/])
+- [Github](https://github.com/Jhinior)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-el-sayed-jr97/)
 
 Omar Yahia 
 
-- [Github]([https://github.com/omary350])
-- [LinkedIn]([https://www.linkedin.com/in/omar-yehia-737b75237/])
+- [Github](https://github.com/omary350)
+- [LinkedIn](https://www.linkedin.com/in/omar-yehia-737b75237/)
